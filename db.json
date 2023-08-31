@@ -1,0 +1,22 @@
+{
+  "cruddata": [
+    {
+      "id": 1,
+      "name": "sky",
+      "email": "skyit@gmail.com",
+      "phone": "8966607906"
+    },
+    {
+      "id": 2,
+      "name": "tanu",
+      "phone": "8599614785",
+      "email": "sky@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Vaishnavi Narayan Bodhale",
+      "email": "vbodhale.7845@gmail.com",
+      "phone": "07666079063"
+    }
+  ]
+}
